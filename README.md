@@ -1,5 +1,7 @@
 Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next-app`]
 
+Como implementar um sistema de upload de imagens no Front End com React , NextJs  e React DropZone, e de bônus como fazer uma FAQ perguntas frequentes.
+
 ## Começando
 
 Primeiro, execute o servidor de desenvolvimento:

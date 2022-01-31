@@ -6,6 +6,7 @@ import { useDropzone } from 'react-dropzone'
 import fundo from "../public/nft.jpg"
 import { useCallback, useState } from 'react'
 import { Card } from '../components/Card'
+import Faq from '../components/Faq'
 
 const Home: NextPage = () => {
   const [Cover, setCover] = useState("")
@@ -113,6 +114,7 @@ const Home: NextPage = () => {
                 </Center>
               </Flex>
           </Flex>
+          <Faq/>
         </Flex>
       </Box>
     </>
